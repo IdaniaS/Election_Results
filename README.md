@@ -14,5 +14,32 @@ After reviewing the information, the election committee has requested more infor
 
 ## Election-Audit Results
 
+### Total Votes Cast in this congressional election
+* The total amount of votes cast in this congressional election was calculated through creating for loop paired with a counter variable that increased with each loop though the rows of data. The total number of votes cast was 369,711. 
+![Election_Results](https://user-images.githubusercontent.com/86635590/126914706-0916219f-9d32-42d6-b8ff-3d99d7b5b572.JPG)
+
+### Breakdown of number of votes and percent for each county
+* Calcualting the number of votes and percent for each county was produced by creating a dictionary adn list to keep key terms such as the county name and accumulated votes by each county as the value.
+* As seen below
+![Percentage_by_County](https://user-images.githubusercontent.com/86635590/126914760-b9698a82-37f5-42fd-8582-db3a8f238c58.JPG)
+While contining the loop for all the data, it is designed to append the to the list when a new county name is listed.
+
+![Loop_County](https://user-images.githubusercontent.com/86635590/126915139-2097d1c8-7eb6-4a4d-a752-bd1e46c464ef.JPG)
+
+Variables created to track votes by county and increase each time the county name appeared in the data file. The percentage of total votes for each county is calculated by dividing the total for each county by the overall total.
+
+![Votes_by_County](https://user-images.githubusercontent.com/86635590/126915403-f538c04f-b89a-4afd-9047-143e8bd60a67.JPG)
+
+* Final results by county:
+
+![County_Results](https://user-images.githubusercontent.com/86635590/126915420-62178444-f8da-4317-aa62-530243c2c33a.JPG)
+
+### County with the largest number of votes
+
+
+* votes and percent of total votes for each candidate
+* winnning candidate, vote count and percent of total votes
+
 ## Election-Audit Summary
+
 
