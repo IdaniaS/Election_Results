@@ -1,7 +1,7 @@
 # PyPoll_Challenge
 ## Overview of Election Audit
 Tom and Seth are ready to begin an election audit.
-It is important to go over the tasks with Tom and discuss the information needed by the Colorado Board of Elections. To calculate statistics and print the results to the terminal as well as a text file. 
+It is important to go over the tasks with Tom and discuss the information needed by the Colorado Board of Elections. Calculate statistics and print the results to the terminal as well as a text file. 
 ### Deliver the following information to the election committee
 - Total number of votes cast
 - A complete list of candidates who recieved votes
@@ -22,11 +22,12 @@ After reviewing the information, the election committee has requested more infor
 * Calcualting the number of votes and percent for each county was produced by creating a dictionary adn list to keep key terms such as the county name and accumulated votes by each county as the value.
 * As seen below
 ![Percentage_by_County](https://user-images.githubusercontent.com/86635590/126914760-b9698a82-37f5-42fd-8582-db3a8f238c58.JPG)
-While contining the loop for all the data, it is designed to append the to the list when a new county name is listed.
+
+* While contining the loop for all the data, it is designed to append the to the list when a new county name is listed.
 
 ![Loop_County](https://user-images.githubusercontent.com/86635590/126915139-2097d1c8-7eb6-4a4d-a752-bd1e46c464ef.JPG)
 
-Variables created to track votes by county and increase each time the county name appeared in the data file. The percentage of total votes for each county is calculated by dividing the total for each county by the overall total.
+* Variables created to track votes by county and increase each time the county name appeared in the data file. The percentage of total votes for each county is calculated by dividing the total for each county by the overall total.
 
 ![Votes_by_County](https://user-images.githubusercontent.com/86635590/126915403-f538c04f-b89a-4afd-9047-143e8bd60a67.JPG)
 
@@ -35,6 +36,13 @@ Variables created to track votes by county and increase each time the county nam
 ![County_Results](https://user-images.githubusercontent.com/86635590/126915420-62178444-f8da-4317-aa62-530243c2c33a.JPG)
 
 ### County with the largest number of votes
+
+* The county that won the election was determined with an if statement and comparison variable for the loop to check and accumulate the amount of votes. By processing the whole dataset it and writing the code as shown below: (6f)
+![Votes_by_County](https://user-images.githubusercontent.com/86635590/126917051-bafa0627-54cc-4de0-a91d-ce920493feae.JPG)
+
+* The county with the largest turn out was Denver
+
+
 
 
 * votes and percent of total votes for each candidate
