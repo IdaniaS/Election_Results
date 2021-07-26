@@ -57,5 +57,8 @@ After reviewing the information, the election committee has requested more infor
 ![Election_Winner](https://user-images.githubusercontent.com/86635590/126918004-36edc429-36c2-442d-9c51-78b7f6b7cd67.JPG)
 
 ## Election-Audit Summary
-
+The written script for the audit was able to calculate the total votes, number of votes for each candidate, from which county and the percentage of total votes for each. The data elements can be applied to other applications and produce important information from each dataset. The script could also be written to provide other important information such as;
+Allowing the election commission to see which candidate won in each county by counting votes by cadidate and by county. This would provide insight past just the overall election winner.
+Second the script could be modified to calculate the winning candidate in most counties which could produce a possible seperate outcome from the overall popular vote. 
+These minor changes would benefit the Colorado Board of Elections in examining the dataset in a different context providing a deeper insight to other opportunities of improvment and analytics.
 
