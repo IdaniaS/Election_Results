@@ -42,11 +42,19 @@ After reviewing the information, the election committee has requested more infor
 
 * The county with the largest turn out was Denver
 
+![Largest_Turnout](https://user-images.githubusercontent.com/86635590/126917875-a6cfa199-f1d0-435b-8509-8d434f728687.JPG)
 
+### Votes and percent of total votes for each candidate
 
+* Just as the county with the largest turn out was calculated similarly the votes for each cadidate and the percent of total votes for each is in the county analysis.
 
-* votes and percent of total votes for each candidate
-* winnning candidate, vote count and percent of total votes
+![Votes Percentage](https://user-images.githubusercontent.com/86635590/126917963-1312a76a-041f-4c69-a091-9a9655e71ab2.JPG)
+
+### The winning candidate, vote count and percent of total votes recieved
+
+* The winning candidate was Diana DeGette who recieved a total count of 272,892 votes which was 73.8% of the total amount of votes. 
+
+![Election_Winner](https://user-images.githubusercontent.com/86635590/126918004-36edc429-36c2-442d-9c51-78b7f6b7cd67.JPG)
 
 ## Election-Audit Summary
 
