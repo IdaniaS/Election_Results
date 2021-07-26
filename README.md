@@ -16,11 +16,13 @@ After reviewing the information, the election committee has requested more infor
 
 ### Total Votes Cast in this congressional election
 * The total amount of votes cast in this congressional election was calculated through creating for loop paired with a counter variable that increased with each loop though the rows of data. The total number of votes cast was 369,711. 
+
 ![Election_Results](https://user-images.githubusercontent.com/86635590/126914706-0916219f-9d32-42d6-b8ff-3d99d7b5b572.JPG)
 
 ### Breakdown of number of votes and percent for each county
 * Calcualting the number of votes and percent for each county was produced by creating a dictionary adn list to keep key terms such as the county name and accumulated votes by each county as the value.
 * As seen below
+* 
 ![Percentage_by_County](https://user-images.githubusercontent.com/86635590/126914760-b9698a82-37f5-42fd-8582-db3a8f238c58.JPG)
 
 * While contining the loop for all the data, it is designed to append the to the list when a new county name is listed.
@@ -37,7 +39,8 @@ After reviewing the information, the election committee has requested more infor
 
 ### County with the largest number of votes
 
-* The county that won the election was determined with an if statement and comparison variable for the loop to check and accumulate the amount of votes. By processing the whole dataset it and writing the code as shown below: (6f)
+* The county that won the election was determined with an if statement and comparison variable for the loop to check and accumulate the amount of votes. By processing the whole dataset it and writing the code as shown below:
+
 ![Votes_by_County](https://user-images.githubusercontent.com/86635590/126917051-bafa0627-54cc-4de0-a91d-ce920493feae.JPG)
 
 * The county with the largest turn out was Denver
