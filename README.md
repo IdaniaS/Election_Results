@@ -2,6 +2,7 @@
 ## Overview of Election Audit
 Tom and Seth are ready to begin an election audit.
 It is important to go over the tasks with Tom and discuss the information needed by the Colorado Board of Elections. Calculate statistics and print the results to the terminal as well as a text file. 
+
 ### Deliver the following information to the election committee
 - Total number of votes cast
 - A complete list of candidates who recieved votes
@@ -22,7 +23,7 @@ After reviewing the information, the election committee has requested more infor
 ### Breakdown of number of votes and percent for each county
 * Calcualting the number of votes and percent for each county was produced by creating a dictionary adn list to keep key terms such as the county name and accumulated votes by each county as the value.
 * As seen below
-* 
+
 ![Percentage_by_County](https://user-images.githubusercontent.com/86635590/126914760-b9698a82-37f5-42fd-8582-db3a8f238c58.JPG)
 
 * While contining the loop for all the data, it is designed to append the to the list when a new county name is listed.
